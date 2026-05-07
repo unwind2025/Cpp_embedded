@@ -39,4 +39,3 @@
 REG_EMBEDDED  = ENABLE;   // C++ 嵌入式开发
 REG_AI_DEPLOY = ENABLE;   // AI 模型端侧落地
 REG_LEARN     = ALWAYS_ON;// 长期深耕不宕机
-<img width="1170" height="1170" alt="熊大" src="https://github.com/user-attachments/assets/9b28b04a-bd75-4365-8026-0528b222220e" />
